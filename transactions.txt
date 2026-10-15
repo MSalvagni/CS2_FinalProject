@@ -1,0 +1,10 @@
+Patron ID: 2
+Book: 1984
+Checkout Date: 10/15/2026
+Due Date: 10/29/2026
+--------------------
+Patron ID: 2
+Book: 1984
+Checkout Date: 10/15/2026
+Due Date: 10/29/2026
+--------------------

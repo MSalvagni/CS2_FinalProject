@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,Fiction,Available,Printed,180
+Quantum Physics 101,Albert Einstein,Science,Available,EBook,4.500000
+The Hobbit,J.R.R. Tolkien,Fiction,Available,Printed,310
+1984,George Orwell,Fiction,Available,Printed,328
+The Martian,Andy Weir,Science,Available,EBook,2.800000
