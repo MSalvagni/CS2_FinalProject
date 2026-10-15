@@ -5,7 +5,7 @@ The application menu selections from the user to determine which operation to pe
 •	An author name to search for books
 •	A genre selection to filter books by genre
 The application also reads saved books, patron, and transaction information from text files when it starts.
-General Outputs:
+# General Outputs:
 The application displays 
 •	Book titles, authors, genres, availability, and book types
 •	Patron IDs and names
